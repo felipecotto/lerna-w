@@ -1,6 +1,6 @@
 {
   "name": "xp-packges",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "test lerna package manage",
   "keywords": [
     "lerna"
@@ -20,6 +20,3 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   }
 }
-
-
-
