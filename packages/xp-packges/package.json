@@ -1,6 +1,6 @@
 {
   "name": "xp-packges",
-  "version": "0.3.0",
+  "version": "1.0.0-alpha.0",
   "description": "test lerna package manage",
   "keywords": [
     "lerna"
