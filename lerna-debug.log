@@ -1,6 +1,6 @@
-36 error Error: Command failed: git add -- packages/xp-packges/package.json packages/xp-tokens/package.json packages/xp-tokens/package-lock.json lerna.json
-36 error fatal: Pathspec 'packages/xp-tokens/package.json' is in submodule 'packages/xp-tokens'
-36 error
-36 error     at makeError (/usr/local/lib/node_modules/lerna/node_modules/execa/index.js:174:9)
-36 error     at /usr/local/lib/node_modules/lerna/node_modules/execa/index.js:278:16
-36 error     at processTicksAndRejections (internal/process/task_queues.js:93:5)
+38 error Error: Command failed: git add -- packages/xp-tokens/package.json packages/xp-tokens/package-lock.json packages/xp-packges/package.json lerna.json
+38 error fatal: Pathspec 'packages/xp-tokens/package.json' is in submodule 'packages/xp-tokens'
+38 error
+38 error     at makeError (/usr/local/lib/node_modules/lerna/node_modules/execa/index.js:174:9)
+38 error     at /usr/local/lib/node_modules/lerna/node_modules/execa/index.js:278:16
+38 error     at processTicksAndRejections (internal/process/task_queues.js:93:5)
